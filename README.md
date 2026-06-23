@@ -38,9 +38,3 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Manda-bit/Manda-bit/snake-output/snake.svg" alt="Snake animation" />
-
-<<<<<<< HEAD
-###
-=======
-###
->>>>>>> 2672ad77d0ff20c6ca8cbc3f3578e6c668a3b698
